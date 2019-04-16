@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">studentAttendance</string>
+
+
+    <string name="title_activity_main2">View_Attendance_Activity</string>
+    <string-array name="Semester">
+        <item>1 </item>
+        <item>2 </item>
+        <item>3 </item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="Period">
+        <item>1 </item>
+        <item>2 </item>
+        <item>3 </item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+    </string-array>
+    <string name="title_activity_teacher">TeacherActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add__student_">Add_Student_Activity</string>
+    <string name="title_activity_view__attendance_">View_Attendance_Activity</string>
+    <string name="title_activity_take__attendance_">Take_Attendance_Activity</string>
+
+</resources>
